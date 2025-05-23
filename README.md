@@ -44,6 +44,8 @@ Finally, key player metrics such as speed and distance traveled on the field are
 
 This comprehensive project integrates multiple advanced concepts and addresses practical challenges, making it an excellent example of applied machine learning for both novice and experienced practitioners.
 
+![Screenshot](output_videos/screenshot.png)
+
 **Why Football-Analysis-System?**
 
 This project aims to enhance the analysis of football gameplay by providing robust tools for object detection and tracking. The core features include:
