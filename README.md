@@ -34,7 +34,15 @@
 
 ## ✨ Overview
 
-Unlock the potential of sports analytics with the **Football-Analysis-System**, a powerful framework for tracking and analyzing football dynamics through advanced computer vision techniques.
+The objective of this project is to detect and track players, referees, and footballs within video footage by leveraging YOLO, a state-of-the-art AI object detection framework. The model was further enhanced through targeted training to improve accuracy.
+
+Players are assigned to teams by applying K-means clustering on pixel data extracted from jersey colors, enabling effective team differentiation. This segmentation allows quantification of each team’s ball possession percentage during a match.
+
+To accurately capture player movement, optical flow techniques are used to estimate camera motion between frames. This data is combined with perspective transformation to account for scene depth and perspective distortion, facilitating movement measurements in real-world units (meters) rather than pixels.
+
+Finally, key player metrics such as speed and distance traveled on the field are calculated.
+
+This comprehensive project integrates multiple advanced concepts and addresses practical challenges, making it an excellent example of applied machine learning for both novice and experienced practitioners.
 
 **Why Football-Analysis-System?**
 
