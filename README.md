@@ -25,6 +25,10 @@
 ## 📄 Table of Contents
 
 - [Overview](#-overview)
+- [Modules Used](#-modules-used)
+- [Overview](#-overview)
+- [Overview](#-overview)
+- [Overview](#-overview)
 - [Getting Started](#-getting-started)
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
@@ -56,6 +60,17 @@ This project aims to enhance the analysis of football gameplay by providing robu
 - 🎨 **Team Color Assignment:** Automatically assigns team colors to players, improving visual differentiation in analysis.
 - 📷 **Camera Movement Estimation:** Analyzes camera motion to enhance tracking accuracy in dynamic environments.
 - 📓 **User-Friendly Training Notebook:** Simplifies the training of YOLOv5 on custom datasets, making model training accessible to all developers.
+
+---
+
+## ✨ Modules Used
+
+The following modules are used in this project:
+- YOLO: AI object detection model
+- Kmeans: Pixel segmentation and clustering to detect t-shirt color
+- Optical Flow: Measure camera movement
+- Perspective Transformation: Represent scene depth and perspective
+- Speed and distance calculation per player
 
 ---
 
