@@ -63,7 +63,7 @@ This project aims to enhance the analysis of football gameplay by providing robu
 
 ---
 
-## ✨ Modules Used
+## 🥡 Modules Used
 
 The following modules are used in this project:
 - YOLO: AI object detection model
