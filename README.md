@@ -29,7 +29,6 @@
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
     - [Usage](#-usage)
-    - [Testing](#-testing)
 
 ---
 
@@ -93,12 +92,6 @@ Run the project with:
 conda activate {venv}
 python {entrypoint}
 ```
-
-### 🧪 Testing
-
-Football-analysis-system uses the {__test_framework__} test framework. Run the test suite with:
-
-**Using [conda](https://docs.conda.io/):**
 
 ```sh
 conda activate {venv}
