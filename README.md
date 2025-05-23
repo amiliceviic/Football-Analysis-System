@@ -28,7 +28,7 @@
 - [Modules Used](#-modules-used)
 - [Trained Models](#-trained-models)
 - [Sample video](#-sample-video)
-- [Overview](#-overview)
+- [Requirements](#-requirements)
 - [Getting Started](#-getting-started)
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
@@ -83,6 +83,19 @@ The following modules are used in this project:
 ## ✨ Sample video
 
 -  [Sample input video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
+
+---
+
+## ✨ Requirements
+
+To run this project, you need to have the following requirements installed:
+- Python 3.x
+- ultralytics
+- supervision
+- OpenCV
+- NumPy
+- Matplotlib
+- Pandas
 
 ---
 
