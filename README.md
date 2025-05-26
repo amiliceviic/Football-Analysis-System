@@ -1,6 +1,5 @@
 <div id="top">
 
-<!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
 # FOOTBALL-ANALYSIS-SYSTEM
