@@ -33,7 +33,6 @@
 
 ---
 
-
 ## ✨ Overview
 
 The objective of this project is to detect and track players, referees, and footballs within video footage by leveraging YOLO, a state-of-the-art AI object detection framework. The model was further enhanced through targeted training to improve accuracy.
